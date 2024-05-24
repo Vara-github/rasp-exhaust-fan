@@ -2,7 +2,8 @@
 
 This project is a web and hardware integration that displays ThingSpeak charts on a webpage and controls a fan using a Raspberry Pi based on temperature readings from a DHT22 sensor. The temperature data and fan speed are sent to ThingSpeak for real-time monitoring.
 
-#Prerequisites
+#Components used <br />
+
 Raspberry Pi
 DHT22 sensor
 Fan with PWM control
